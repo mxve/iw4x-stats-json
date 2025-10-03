@@ -17990,5 +17990,21 @@
     "server_count": 17,
     "player_count": 3,
     "created_at": "2025-10-03 16:00:00"
+  },
+  {
+    "id": 2250,
+    "timestamp": 1759507200,
+    "protocol": 152,
+    "server_count": 121,
+    "player_count": 77,
+    "created_at": "2025-10-03 22:00:00"
+  },
+  {
+    "id": 2251,
+    "timestamp": 1759507200,
+    "protocol": 150,
+    "server_count": 17,
+    "player_count": 3,
+    "created_at": "2025-10-03 22:00:00"
   }
 ]
