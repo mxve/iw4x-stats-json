@@ -21398,5 +21398,69 @@
     "server_count": 119,
     "player_count": 71,
     "created_at": "2025-11-25 23:00:00"
+  },
+  {
+    "id": 2676,
+    "timestamp": 1764111600,
+    "protocol": 150,
+    "server_count": 16,
+    "player_count": 5,
+    "created_at": "2025-11-26 05:00:00"
+  },
+  {
+    "id": 2677,
+    "timestamp": 1764111600,
+    "protocol": 152,
+    "server_count": 119,
+    "player_count": 107,
+    "created_at": "2025-11-26 05:00:00"
+  },
+  {
+    "id": 2678,
+    "timestamp": 1764133200,
+    "protocol": 152,
+    "server_count": 119,
+    "player_count": 89,
+    "created_at": "2025-11-26 11:00:00"
+  },
+  {
+    "id": 2679,
+    "timestamp": 1764133200,
+    "protocol": 150,
+    "server_count": 16,
+    "player_count": 3,
+    "created_at": "2025-11-26 11:00:00"
+  },
+  {
+    "id": 2680,
+    "timestamp": 1764154800,
+    "protocol": 152,
+    "server_count": 118,
+    "player_count": 60,
+    "created_at": "2025-11-26 17:00:00"
+  },
+  {
+    "id": 2681,
+    "timestamp": 1764154800,
+    "protocol": 150,
+    "server_count": 15,
+    "player_count": 6,
+    "created_at": "2025-11-26 17:00:00"
+  },
+  {
+    "id": 2682,
+    "timestamp": 1764176400,
+    "protocol": 150,
+    "server_count": 15,
+    "player_count": 2,
+    "created_at": "2025-11-26 23:00:00"
+  },
+  {
+    "id": 2683,
+    "timestamp": 1764176400,
+    "protocol": 152,
+    "server_count": 118,
+    "player_count": 79,
+    "created_at": "2025-11-26 23:00:00"
   }
 ]
