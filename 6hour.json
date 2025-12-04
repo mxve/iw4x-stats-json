@@ -21910,5 +21910,53 @@
     "server_count": 15,
     "player_count": 3,
     "created_at": "2025-12-03 23:00:00"
+  },
+  {
+    "id": 2740,
+    "timestamp": 1764802800,
+    "protocol": 152,
+    "server_count": 144,
+    "player_count": 125,
+    "created_at": "2025-12-04 05:00:00"
+  },
+  {
+    "id": 2741,
+    "timestamp": 1764802800,
+    "protocol": 150,
+    "server_count": 13,
+    "player_count": 8,
+    "created_at": "2025-12-04 05:00:00"
+  },
+  {
+    "id": 2742,
+    "timestamp": 1764824400,
+    "protocol": 150,
+    "server_count": 13,
+    "player_count": 2,
+    "created_at": "2025-12-04 11:00:00"
+  },
+  {
+    "id": 2743,
+    "timestamp": 1764824400,
+    "protocol": 152,
+    "server_count": 142,
+    "player_count": 93,
+    "created_at": "2025-12-04 11:00:00"
+  },
+  {
+    "id": 2744,
+    "timestamp": 1764846000,
+    "protocol": 150,
+    "server_count": 13,
+    "player_count": 0,
+    "created_at": "2025-12-04 17:00:00"
+  },
+  {
+    "id": 2745,
+    "timestamp": 1764846000,
+    "protocol": 152,
+    "server_count": 139,
+    "player_count": 77,
+    "created_at": "2025-12-04 17:00:00"
   }
 ]
